@@ -1,6 +1,6 @@
 // Lista de canciones
 const songs = [
-    { title: "Canción 1", artist: "Artista 1", src: "Alcolirykoz _ Laberinto ELC - Los Legendarios (Prod. El Arkeólogo)(MP3_160K).mp3", cover: "andres.jpg" },
+    { title: "Canción 1", artist: "Artista 1", src: "./Alcolirykoz _ Laberinto ELC - Los Legendarios (Prod. El Arkeólogo)(MP3_160K).mp3", cover: "./andres.jpg" },
     { title: "Canción 2", artist: "Artista 2", src: "song2.mp3", cover: "cover2.jpg" }
 ];
 
